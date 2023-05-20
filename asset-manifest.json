@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OpenEsq/static/css/main.70bc23bf.css",
+    "main.js": "/OpenEsq/static/js/main.48f79282.js",
+    "index.html": "/OpenEsq/index.html",
+    "main.70bc23bf.css.map": "/OpenEsq/static/css/main.70bc23bf.css.map",
+    "main.48f79282.js.map": "/OpenEsq/static/js/main.48f79282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70bc23bf.css",
+    "static/js/main.48f79282.js"
+  ]
+}
