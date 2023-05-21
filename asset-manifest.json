@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/OpenEsq/static/css/main.70bc23bf.css",
-    "main.js": "/OpenEsq/static/js/main.48f79282.js",
+    "main.js": "/OpenEsq/static/js/main.4c079205.js",
+    "static/media/asset.png": "/OpenEsq/static/media/asset.05f5442b45df7400d982.png",
+    "static/media/asset3.png": "/OpenEsq/static/media/asset3.81dbeed36c24076336a8.png",
+    "static/media/asset2.png": "/OpenEsq/static/media/asset2.b7ce4765f59105d6e73c.png",
+    "static/media/logo.png": "/OpenEsq/static/media/logo.49e3ff8787804b4b4515.png",
     "index.html": "/OpenEsq/index.html",
     "main.70bc23bf.css.map": "/OpenEsq/static/css/main.70bc23bf.css.map",
-    "main.48f79282.js.map": "/OpenEsq/static/js/main.48f79282.js.map"
+    "main.4c079205.js.map": "/OpenEsq/static/js/main.4c079205.js.map"
   },
   "entrypoints": [
     "static/css/main.70bc23bf.css",
-    "static/js/main.48f79282.js"
+    "static/js/main.4c079205.js"
   ]
 }
